@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\bin\Debug\SelectionHero.exe.config
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\bin\Debug\SelectionHero.exe
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\bin\Debug\SelectionHero.pdb
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\Interop.Dm.dll
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.Form1.resources
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.exe
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.pdb
+C:\Users\Administrator\Desktop\AutomationSelectHere\SelectionHero\obj\Debug\SelectionHero.csprojAssemblyReference.cache
